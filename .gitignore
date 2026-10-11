@@ -1,0 +1,60 @@
+# ---- Secrets & environment (NEVER commit) ----
+.env
+.env.*
+!.env.example
+!config/.env.example
+*.pem
+*.key
+*.crt
+secrets/
+credentials*.json
+service-account*.json
+*.secret
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# ---- Models, datasets, large/confidential data ----
+models/
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.gguf
+*.onnx
+data/raw/
+data/private/
+data/*.csv
+data/*.jsonl
+!data/sample_*.jsonl
+*.mbox
+*.eml
+
+# ---- Databases & logs ----
+*.sqlite3
+*.db
+*.log
+logs/
+
+# ---- IDE / OS ----
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ---- Diagram temp/backup files ----
+*.drawio.bkp
+.$*.bkp
+.$*.dtmp
