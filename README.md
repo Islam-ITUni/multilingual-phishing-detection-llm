@@ -1,7 +1,7 @@
 # Multilingual Phishing Detection with LLMs (Kazakh · Russian · English)
 
 > Pre-Defense 1 repository — **sole developer: Imanbayev Islam**
-> Supervisor: _[Supervisor full name]_ · University: _[University / programme]_
+> Supervisor: Zhanna Sadirmekova · University: Astana IT University
 
 ## Project titles
 
