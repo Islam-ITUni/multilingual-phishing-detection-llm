@@ -5,9 +5,9 @@ API clients" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeCol
 /analyze  /history
 /feedback  /health" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82B366;" vertex="1" parent="1"><mxGeometry x="230" y="250" width="150" height="80" as="geometry"/></mxCell><mxCell id="auth" value="Auth &amp; Rate Limiting
 (API keys)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1"><mxGeometry x="230" y="100" width="150" height="60" as="geometry"/></mxCell><mxCell id="pre" value="Preprocessor
-(normalize, KK Cyrillic,
+(normalize, KZ Cyrillic,
 homoglyphs, HTML strip)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1"><mxGeometry x="430" y="100" width="170" height="70" as="geometry"/></mxCell><mxCell id="lang" value="Language Detector
-(KK / RU / EN)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1"><mxGeometry x="430" y="210" width="170" height="60" as="geometry"/></mxCell><mxCell id="url" value="URL Analyzer
+(KZ / RU / EN)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1"><mxGeometry x="430" y="210" width="170" height="60" as="geometry"/></mxCell><mxCell id="url" value="URL Analyzer
 (extract, domain
 heuristics, lookups)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE8FC;strokeColor=#6C8EBF;" vertex="1" parent="1"><mxGeometry x="430" y="310" width="170" height="70" as="geometry"/></mxCell><mxCell id="fast" value="Fast Classifier
 (fine-tuned multilingual
