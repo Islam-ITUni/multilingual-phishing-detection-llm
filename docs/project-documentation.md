@@ -9,7 +9,7 @@
 |**University / Programme**|AstanaIT University|
 |**Repository**|https://github.com/Islam-ITUni/multilingual-phishing-detection-llm.git|
 |**Version / date**|v0.1|
-|**Release tag**|pre-defense-1|
+|**Release tag**|prob-period-1|
 
 ## Table of Contents
 
