@@ -1,6 +1,6 @@
 # Multilingual Phishing Detection with LLMs (Kazakh · Russian · English)
 
-Pre-Defense 1 repository.
+Prob-period-1 repository.
 Developer: Imanbayev Islam (GitHub: Islam-ITUni)
 Supervisor: Zhanna Sadirmekova
 University: AstanaIT University
