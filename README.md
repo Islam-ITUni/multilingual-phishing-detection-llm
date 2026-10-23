@@ -42,6 +42,7 @@ explainable risk score.
 |Imanbayev Islam|Sole developer|Analysis, design, dataset preparation, implementation, evaluation, documentation|
 
 
+
 ## Scope
 
 In scope: text-based phishing detection (KZ / RU / EN), language detection, URL extraction and heuristic
@@ -59,7 +60,7 @@ training an LLM from scratch.
 |Backend|FastAPI|Django, Flask|
 |Database|PostgreSQL (SQLite for tests)|MongoDB, SQLite|
 
-Full comparison and justification: [`docs/project-documentation.md`](docs/project-documentation.md).
+Full comparison and justification: [`docs/SE-2404\_IslamImanbayev\_ProbPeriod1.md`](docs/SE-2404_IslamImanbayev_ProbPeriod1.md).
 
 ## Project status
 
@@ -94,11 +95,11 @@ python -m venv .venv
 source .venv/bin/activate        
 ```
 
-Planned API: `POST /api/v1/analyze`. See the sample request/response in `docs/project-documentation.md` (Section 8).
+Planned API: `POST /api/v1/analyze`. See the sample request/response in `docs/SE-2404\_IslamImanbayev\_ProbPeriod1.md` (Section 8).
 
 ## Documentation
 
-* Project documentation: [`docs/project-documentation.md`](docs/project-documentation.md)
+* Project documentation: [`docs/SE-2404\_IslamImanbayev\_ProbPeriod1.md`](docs/SE-2404_IslamImanbayev_ProbPeriod1.md)
 * Diagrams: [`diagrams/`](diagrams/)
 * Task board (YouTrack): https://multilingual-phishing-detection-llm.youtrack.cloud/projects/MPD
 
